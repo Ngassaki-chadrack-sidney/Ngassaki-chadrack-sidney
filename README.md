@@ -1,7 +1,7 @@
 # Salut, je suis NGASSAKI Chadrack Sidney 👋
 
 Développeur web et mobile passionné, je conçois des **applications full-stack performantes, intuitives et responsives**, ainsi que des **applications mobiles** de qualité.  
-Toujours motivé pour apprendre de nouvelles technologies et améliorer mes compétences chaque jour.
+Toujours motivé pour apprendre et améliorer mes compétences chaque jour.
 
 ---
 
@@ -44,7 +44,7 @@ Toujours motivé pour apprendre de nouvelles technologies et améliorer mes comp
 ---
 
 ## 📫 Me contacter
-- LinkedIn : [Ton Profil LinkedIn](https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/chadrack-sidney-ngassaki-26253635b/))
-- Email : jrh3948@gmail.com
+- LinkedIn : [LinkedIn](https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/chadrack-sidney-ngassaki-26253635b/))
+- Email : [Mon adresse mail ](jrh3948@gmail.com)
 
 ---
